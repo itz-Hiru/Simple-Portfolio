@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This is where you can find all my work, skills, and experiences as a web developer. Feel free to explore and check out my projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://itz-hiru-simple-portfolio.vercel.app/)
 
 ---
 
@@ -35,7 +35,7 @@ If you’d like to get in touch, feel free to reach out to me through the follow
 
 ## ⚡ Demo
 
-To see the live demo of my portfolio, click [here](https://yourportfolio.com).
+To see the live demo of my portfolio, click [here](https://itz-hiru-simple-portfolio.vercel.app/).
 
 ---
 
